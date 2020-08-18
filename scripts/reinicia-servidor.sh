@@ -1,2 +1,2 @@
-service tomcat8 stop
-service tomcat8 start
+service tomcat9 stop
+service tomcat9 start
